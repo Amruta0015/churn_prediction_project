@@ -1,0 +1,10 @@
+# Ignore large files
+customer_data.csv
+customer_data.db
+churn_model.pkl
+# Ignore Python cache
+__pycache__/
+*.pyc
+# Ignore virtual environments
+venv/
+.env
