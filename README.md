@@ -20,3 +20,11 @@ This project develops a Python-based data analytics pipeline to predict customer
 ## Requirements
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn sqlalchemy openpyxl
+
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
+## Feature Importance
+![Feature Importance](![Image](https://github.com/user-attachments/assets/48789cdb-2b03-49a0-bca2-62121fa9ce2a)
+
+
